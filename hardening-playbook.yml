@@ -1,5 +1,5 @@
 - hosts: localhost
   become: yes
   become_method: enable
-  roles:
-    - nginx-hardening
+  roles: 
+    - role: "../nginx-hardening"
