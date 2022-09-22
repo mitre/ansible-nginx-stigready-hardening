@@ -1,4 +1,4 @@
-- hosts: localhost
+- hosts: all
   become: yes
   become_method: enable
   roles: 
