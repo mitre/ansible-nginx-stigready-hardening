@@ -1,4 +1,4 @@
-# ansible-nginx-hardening
+# ansible-nginx-stigready-hardening
 
 Ansible role for securing NGINX according to Web Server SRG Verson 2 Release 3
 
