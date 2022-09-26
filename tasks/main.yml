@@ -1,2 +1,5 @@
 - name: Harden
   import_tasks: hardening.yml
+
+- name: Post Task
+  shell: nginx -s reload
