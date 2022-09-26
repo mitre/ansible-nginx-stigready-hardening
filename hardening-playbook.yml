@@ -4,4 +4,4 @@
   vars_files:
     - "../vars/docker.vars.yml"
   roles: 
-    - role: "../nginx-hardening"
+    - role: "../ansible-nginx-stigready-hardening"
