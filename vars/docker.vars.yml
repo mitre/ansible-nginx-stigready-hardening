@@ -6,4 +6,4 @@ nginx_site_root: '/usr/share/nginx/html'
 nginx_prefix: '/usr/share/nginx'
 nginx_log_path: '/var/log/nginx'
 nginx_pid: '/var/run/nginx.pid'
-ansible_python_interpreter: /usr/bin/python3.9
+ansible_python_interpreter: /usr/bin/python3
